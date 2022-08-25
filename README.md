@@ -1,6 +1,8 @@
 # Aircraft-Crash-Data-Visualizations
 This is a project I completed using the National Transportation Safety Board's [Aviation Accident Database and Synopses](https://www.ntsb.gov/Pages/AviationQuery.aspx). The datafile contains information on the phase of flight, purpose of flight, type of aircraft, number of deaths, and many other factors on aviation crashes. 
 
-The Aviation Crash Visualization Process is a pdf that walks through my thought process in creating both visualizations. 
-The first visualization is interactive and is called How Safe Are You in an Aviation Accident? This was created in Tableau. 
-The second visualization is static and is called static-vizzie, and was created using Adobe Illustrator.
+File Description:
+- VisualizationProcess.pdf: A walkthrough of my thought process in creating both visualizations. 
+- AviationAccidents.twbx: An interactive visualization created in Tableau. [Here is a Tableau Public link that may be easier to use](https://public.tableau.com/app/profile/nick.kalenichenko/viz/HowSafeAreYouinanAviationAccident/Story1).
+- StaticVizzie.pdf: A static visualization created with Adobe Illustrator.
+- AviationData.csv: The aviation crash dataset
