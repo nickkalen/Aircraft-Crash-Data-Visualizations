@@ -3,6 +3,6 @@ This is a project I completed using the National Transportation Safety Board's [
 
 File Description:
 - VisualizationProcess.pdf: A walkthrough of my thought process in creating both visualizations. 
-- AviationAccidents.twbx: An interactive visualization created in Tableau. [Here is a Tableau Public link that may be easier to use](https://public.tableau.com/app/profile/nick.kalenichenko/viz/HowSafeAreYouinanAviationAccident/Story1).
+- AviationAccidents.twbx: An interactive visualization created in Tableau. [For easier viewing, here is a link to this vizzie in Tableau Public](https://public.tableau.com/app/profile/nick.kalenichenko/viz/HowSafeAreYouinanAviationAccident/Story1).
 - StaticVizzie.pdf: A static visualization created with Adobe Illustrator.
 - AviationData.csv: The aviation crash dataset
